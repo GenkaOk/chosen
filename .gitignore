@@ -1,8 +1,7 @@
 .DS_Store
 node_modules
 .project
-public/*.js
-public/*.css
+.idea/*
 public/*.json
 public/LICENSE.md
 chosen*.zip
@@ -10,5 +9,6 @@ chosen*.zip
 .ruby-version
 .rbenv-gemsets
 .grunt
+package-lock.json
 _SpecRunner.html
 spec/public

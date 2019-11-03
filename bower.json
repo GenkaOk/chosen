@@ -32,9 +32,7 @@
   "dependencies": {},
   "main": [
     "public/chosen.jquery.js",
-    "public/chosen.css",
-    "public/chosen-sprite.png",
-    "public/chosen-sprite@2x.png"
+    "public/chosen.css"
   ],
   "ignore": [],
   "repository": {
